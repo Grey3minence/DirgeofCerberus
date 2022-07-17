@@ -1,6 +1,8 @@
 # DirgeofCerberus
 An AI-Upscaled HD Texture Pack for Dirge of Cerberus: Final Fantasy VII.
 
+Download: https://drive.google.com/drive/folders/1FuDdvcHDsVWoKBN3dr_czHIdFhSyHnxP?usp=sharing
+
 Before and After:
 
 ![alt text](https://github.com/Grey3minence/DirgeofCerberus/blob/main/docs/images/shalua-old.png)
